@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 ## 使用方法
 
+阿里云盘模型下载链接：https://www.alipan.com/s/Sz1QFy8dJB9
+
 ### 1. 运行界面程序
 
 请确保已完成分割模型和分类模型的训练，并将权重文件放在`config.py`指定的位置。
